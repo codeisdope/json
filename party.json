@@ -1,0 +1,8 @@
+{
+    "guests": ["bota", "mako", "alim", "adina"],
+    "food": {
+        "main course": ["besh", "plov", "manty"],
+        "salad": ["potato salad", "thai salad"],
+        "desert": ["cake", "ic", "candy"],
+    }
+}
