@@ -4,6 +4,10 @@
     "ios": "last",
     "number": 11,
     "color": "golden",
+    "eov": {
+        "frequency": ["50hz", "60hz"],
+    },
+    
     "size": {
         "height": 0.16,
         "width": 11.97
