@@ -1,6 +1,9 @@
 {
     "type": "macbook",
     "year": 2020,
-    "ios": "last"
-    
+    "ios": "last",
+    "number": 11,
+    "color": "golden"
+
+
 }
